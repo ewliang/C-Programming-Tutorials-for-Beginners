@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.vcxproj", "{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Debug|x64.ActiveCfg = Debug|x64
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Debug|x64.Build.0 = Debug|x64
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Debug|x86.Build.0 = Debug|Win32
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Release|x64.ActiveCfg = Release|x64
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Release|x64.Build.0 = Release|x64
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Release|x86.ActiveCfg = Release|Win32
+		{01606F8C-3E9E-49FB-94B9-51A44E1FB0E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
