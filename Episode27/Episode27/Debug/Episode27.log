@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eric liang\documents\c-programming-tutorials-for-beginners\episode27\episode27\main.cpp(15): warning C4305: '=': truncation from 'double' to 'float'
+  Episode27.vcxproj -> C:\Users\Eric Liang\Documents\C-Programming-Tutorials-for-Beginners\Episode27\Debug\Episode27.exe
+  Episode27.vcxproj -> C:\Users\Eric Liang\Documents\C-Programming-Tutorials-for-Beginners\Episode27\Debug\Episode27.pdb (Full PDB)
