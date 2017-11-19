@@ -1,0 +1,3 @@
+Hello, this is the secret message going into the file!
+The password to the program is abc123.
+The username is eric.
