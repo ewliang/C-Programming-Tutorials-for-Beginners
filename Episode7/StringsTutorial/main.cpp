@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 	string message1 = "hello world";
-	string message2 = "world";
+	string message2 = "welcome for coding";
 	string message3;
 
 	//Method 1 - Equal Operator
